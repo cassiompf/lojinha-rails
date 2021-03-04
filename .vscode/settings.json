@@ -1,0 +1,16 @@
+{
+    "vetur.grammar.customBlocks": {
+        "docs": "md",
+        "i18n": "json"
+    },
+    "files.associations": {
+        "*.erb": "erb"
+    },
+    "[json]": {
+    
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    }
+}
